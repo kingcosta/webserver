@@ -13,3 +13,4 @@ Once it ends, you can run it again for more options.
 `bash apache2.sh`
 
 
+#### Note: This shell should work on ubuntu as well. I haven't tried. Im not big fan of ubuntu
