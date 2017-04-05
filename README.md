@@ -2,6 +2,8 @@
 
 This script will let you setup your own Apache2 server including php5 MySQL phpmyadmin
 
+## Installation
+
 `wget https://raw.githubusercontent.com/tankibaj/webserver/master/apache2.sh`
 
 `bash apache2.sh`
